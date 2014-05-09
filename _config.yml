@@ -1,8 +1,0 @@
-profiles:
-  production:
-    base_url: http://yawodame.github.com
-    deploy:
-      host: github_pages
-      # use master branch to deploy to username.github.com
-      # use gh-pages branch to deploy to other repository
-      branch: master
