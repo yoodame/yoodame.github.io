@@ -3,8 +3,6 @@ title: DEV.GLOBUS.ORG
 layout: home
 ---
 
-<h1>Below is an included asciidoc file</h1>
-<hr>
-<div>
+# Below is an included asciidoc file
+
 {% include s3.asc %}
-</div>
