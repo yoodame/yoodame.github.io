@@ -7,4 +7,4 @@ slug: s3doc
 
 {% include s3doc.md %}
 <hr>
-{% include s3.asc %}
+{% include s3.asciidoc %}
