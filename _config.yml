@@ -7,3 +7,8 @@ gems:
 markdown: kramdown
 asciidoc: asciidoctor
 asciidoc_ext: asciidoc,adoc,ad
+asciidoctor:
+  attributes:
+    - hardbreaks!
+    - source-highlighter=coderay
+    - coderay-css=style
